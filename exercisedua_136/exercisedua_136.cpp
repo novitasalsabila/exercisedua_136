@@ -19,7 +19,7 @@ public:
         return nama_penerbit;
     }
 
-    void tambahPengarang(Pengarang* pengarang) {
+    void tambahPengarang(Pengarang* pengarang) { 
         daftar_pengarang.push_back(pengarang);
     }
 
